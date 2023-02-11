@@ -1,0 +1,180 @@
+#carouselExampleCaptions {
+  background-image: linear-gradient(90deg, #62939b, #1d4344);
+  height: 100%;
+  width: 100%;
+  color: black;
+}
+
+.carousel-inner {
+  height: 100%;
+  width: 100%;
+}
+
+.carousel-item {
+  height: 100%;
+  width: 100%;
+}
+
+.overlay {
+  position: absolute;
+  background-image: url(./forest.jpg);
+  background-position: center;
+  background-size: cover;
+  opacity: 1;
+  top: 10%;
+  left: 10%;
+  right: 5%;
+  bottom: 10%;
+  height: 80%;
+  width: 80%;
+}
+.container1 {
+  position: absolute;
+  margin-right: 50px;
+  height: 443px;
+  top: 30%;
+  color: white;
+  font-size: small;
+}
+
+h1 {
+  font-size: 58px;
+  font-weight: 700;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-shadow: 2px 2px black;
+}
+
+.container2 {
+  position: absolute;
+  height: 175px;
+  top: 24%;
+  width: 600px;
+  border-left: 2px solid white;
+  right: 10%;
+  color: white;
+}
+
+p {
+  position: absolute;
+  top: 0%;
+  right: 18%;
+  left: 30%;
+  font-size: 35px;
+}
+.container3 {
+  height: 100%;
+  width: 100%;
+  background-image: url(./forest.jpg);
+  background-position: center;
+  background-size: cover;
+  opacity: 1;
+}
+
+.container4 {
+  color: #2c2c2c;
+  width: 100%;
+  flex-direction: row;
+  justify-content: space-around;
+  position: absolute;
+  left: 0%;
+  top: 5%;
+}
+
+.carousel-control-next-icon {
+  width: 90px;
+}
+.carousel-control-prev-icon {
+  width: 90px;
+}
+.carousel-control-prev {
+  position: absolute;
+  height: 10%;
+  top: 50%;
+  width: 120px;
+}
+
+.carousel-control-next {
+  position: absolute;
+  height: 10%;
+  top: 50%;
+  width: 120px;
+}
+
+#submit {
+  position: fixed;
+  bottom: 55%;
+  left: 19%;
+  width: 250px;
+  height: 70px;
+}
+#submit1 {
+  position: fixed;
+  bottom: 35%;
+  left: 19%;
+  width: 250px;
+  height: 70px;
+}
+
+.result {
+  color: rgb(6, 6, 61);
+  background-color: #7ea0a2;
+  position: fixed;
+  top: 27%;
+  height: 450px;
+  width: 575px;
+  left: 45%;
+  border: 2px solid rgb(6, 6, 61);
+}
+
+#sol {
+  font-size: 22px;
+}
+
+.result p {
+  font-size: 15px;
+  position: absolute;
+  top: 15.7%;
+  left: 21%;
+}
+
+.container5 {
+  position: absolute;
+  margin-right: 50px;
+  height: 443px;
+  top: 30%;
+  color: white;
+  font-size: small;
+  left: 20%;
+}
+
+.overlay1 {
+  position: absolute;
+  background-color: white;
+  background-image: url(./forest.jpg);
+  background-position: center;
+  background-size: cover;
+  opacity: 1;
+  top: 10%;
+  left: 10%;
+  right: 5%;
+  bottom: 10%;
+  height: 80%;
+  width: 80%;
+  opacity: 1;
+}
+
+.container6 {
+  position: absolute;
+  height: 97%;
+  width: 40%;
+  right: 10px;
+  bottom: 10px;
+  color: rgb(6, 6, 61);
+  background-color: #7ea0a2;
+}
+
+h5 {
+  font-size: 15px;
+}
